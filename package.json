@@ -1,13 +1,10 @@
 {
-  "name": "animais-eslint",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
