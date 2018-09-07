@@ -5,12 +5,6 @@
   grid-gap: 30px;
 }
 
-@media (max-width: 700px) {
-  .numeros-grid {
-    grid-column: 1;
-  }
-}
-
 .numeros-grid h3 {
   font-family: 'Playfair Display SC';
   font-size: 2rem;
@@ -22,4 +16,13 @@
   font-weight: bold;
   font-size: 1.5rem;
   color: #E54;
+}
+
+@media (max-width: 700px) {
+  .numeros-grid {
+    grid-column: 1;
+  }
+  .numeros-grid h3 {
+    font-size: 1.5rem;
+  }
 }
