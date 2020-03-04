@@ -1,6 +1,6 @@
 {
   "name": "animais-fantasticos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
