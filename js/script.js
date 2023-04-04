@@ -45,3 +45,5 @@ fetchBitcoin('https://blockchain.info/ticker', '.btc-preco');
 const slide = new SlideNav('.slide', '.slide-wrapper');
 slide.init();
 slide.addControl('.custom-controls');
+
+//atualizado
